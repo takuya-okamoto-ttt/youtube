@@ -1,3 +1,5 @@
+!pip3 install google-api-python-client
+
 from googleapiclient.discovery import build
 import json
 import pandas as pd
